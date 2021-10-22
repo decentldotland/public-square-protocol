@@ -1,0 +1,12 @@
+{
+  "issuer": "ARWEAVE_ADDRESS",
+  "owner": "ARWEAVE_ADDRESS",
+  "name": "PublicSquarePost",
+  "ticker": "PSP",
+  "title": "the public square",
+  "description": "the open sea of thoughts",
+  "balances": {
+    "ARWEAVE_ADDRESS": 0,
+  },
+  "contentType": "text/markdown"
+}

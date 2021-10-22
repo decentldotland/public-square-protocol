@@ -1,0 +1,10 @@
+{
+	"owner": "ARWEAVE_ADDRESS",
+	"ticker": "POLL",
+	"name": "aNFT Poll",
+	"title": "a tokenized poll",
+	"balances": {
+		"ARWEAVE_ADDRESS": 1
+	},
+	"isRedeemed": false
+}
