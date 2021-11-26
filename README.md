@@ -7,9 +7,9 @@ The [publicSquare](https://twitter.com/samecwilliams/status/1347741160165531655?
 # Specification
 Unlike PublicSquare V1, this specification introduces a new philosophical experience where digital identities (digital properties) communicate through digital assets (posts). hence, each publication (post, reply, repost) packs its content into a tokenized asset, an atomic NFT.
 
-- supported MIME type: `text/markdown`
+- supported MIME type: `application/json`
 - Publication actions: `post` , `reply`, and `repost`
-- Asset type: atomic NFT
+- Asset type: Atomic NFT
 - Supported social identities: [ANS](https://github.com/decentldotland/ANS/) labels
 
 ## Key features
