@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://decent.land">
-    <img src="./src/utils/img/logo25.png" height="124">
+    <img src="./img/logo25.png" height="124">
   </a>
   <h3 align="center"><code>a permissionless social feed</code></h3>
   <p align="center">protocol's documentation</p>
