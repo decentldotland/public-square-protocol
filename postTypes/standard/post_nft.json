@@ -6,7 +6,7 @@
   "title": "the public square",
   "description": "the open sea of thoughts",
   "balances": {
-    "ARWEAVE_ADDRESS": 0,
+    "ARWEAVE_ADDRESS": 1,
   },
-  "contentType": "text/markdown"
+  "contentType": "application/json"
 }
