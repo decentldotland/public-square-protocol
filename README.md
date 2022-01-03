@@ -8,8 +8,7 @@
   <p align="center">protocol's documentation</p>
 </p>
 
-## **the protocol has no token yet, any associated token's smart contract address is for testing purposes only**
-
+**_the protocol has no token yet, any associated token's smart contract address is for testing purposes only_**
 
 # Synopsis
 The [publicSquare](https://twitter.com/samecwilliams/status/1347741160165531655?lang=en) is a data protocol for an unbiased public square on the Arweave network. Decentland extends the PublicSquare protocol into an open Tribus of unpermissioned access.
