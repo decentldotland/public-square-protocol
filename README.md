@@ -40,6 +40,20 @@ The DecentLand implementation of the PublicSquare add to the publications the ab
 | Contract-Src  | [-xoIBH2TxLkVWo6XWAjdwXZmTbUH09_hPYD6itHFeZY](https://viewblock.io/arweave/tx/-xoIBH2TxLkVWo6XWAjdwXZmTbUH09_hPYD6itHFeZY) |
 | Init-State    | [standard-post-state](./postTypes/standard/post_nft.json) |
 
+### Action reply
+
+|  Tag Key  |  Tag Value  | 
+| :-----------: | :-----------: |
+| App-Name      | PublicSquare | 
+| Version       | testnet-v{x} |
+| Type          | reply          |
+| reply-to      | [parent-post-TXID](#action-post) |
+| Content-Type  | application/json |
+| App-Name      | SmartWeaveContract |
+| App-Version   | 0.3.0              |
+| Contract-Src  | [-xoIBH2TxLkVWo6XWAjdwXZmTbUH09_hPYD6itHFeZY](https://viewblock.io/arweave/tx/-xoIBH2TxLkVWo6XWAjdwXZmTbUH09_hPYD6itHFeZY) |
+| Init-State    | [standard-post-state](./postTypes/standard/post_nft.json) |
+
 ### Disclamer
 DecentLand by no means guarantees the financial valuation of publication's aNFTs, the social consensus does. Posts tokenization is created to introduce a new social experience.
 
